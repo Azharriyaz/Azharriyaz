@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azharriyaz
-- 👀 I’m interested in Game development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning programming languages.
 
 <!---
